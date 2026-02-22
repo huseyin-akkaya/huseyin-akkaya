@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyin-akkaya&show_icons=true&locale=en" alt="huseyin-akkaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyin-akkaya&" alt="huseyin-akkaya" /></p>
+
+![snake gif](https://github.com/huseyin-akkaya/huseyin-akkaya/blob/output/github-contribution-grid-snake.gif)
