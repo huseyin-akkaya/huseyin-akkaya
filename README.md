@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Akkaya</h1>
 <h3 align="center">I am a Computer Programming student based in Türkiye.</h3>
 
-- 🔭 I’m currently working on ** Ayıldız Smart Facility Management**
+- 🔭 I’m currently working on **Ayıldız Smart Facility Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huseyin-akkaya?tab=repositories](https://github.com/huseyin-akkaya?tab=repositories)
 
